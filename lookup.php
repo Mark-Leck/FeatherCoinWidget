@@ -6,6 +6,8 @@ Donations welcome:
 	BTC: 122MeuyZpYz4GSHNrF98e6dnQCXZfHJeGS
 	LTC: LY1L6M6yG26b4sRkLv4BbkmHhPn8GR5fFm
 		~ Thank you!
+	Feathercoin support by UKMark
+	FTC: 6ftCDoN7yNxWLUYJNxjgJ29Dt9TQLPfQxk	
 
 MIT License (MIT)
 
