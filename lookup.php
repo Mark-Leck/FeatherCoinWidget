@@ -31,7 +31,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 */
-
+    include('simple_html_dom.php');
 	header("Content-type: text/javascript");
 	/*
 		you should server side cache this response, especially if your site is active
@@ -50,6 +50,9 @@ THE SOFTWARE.
 					case 'litecoin': 
 						$response = get_litecoin($address);
 						break;
+					case 'feathercoin': 
+						$response = get_feathercoin($address);
+						break;	
 				}
 				$responses[$instance] = $response;
 			}
@@ -79,6 +82,22 @@ THE SOFTWARE.
 		  	$return += array(
 				'count' => (int) parse($data,'Transactions in: ','<br />'),
 				'amount' => (float) parse($data,'Received: ','<br />')
+			);
+		  	return $return;
+		}
+	}
+	
+		function get_feathercoin($address) {
+		$return = array();
+		$data = file_get_html('http://explorer.feathercoin.com/address/' . $address);
+		if (!empty($data)) 
+		 {
+		    $received = $data->find('td', 2)->innertext;
+			$received = substr($received, 0, 6);
+			$txin = $data->find('td', 1)->innertext;
+		  	$return = array(
+				'count' => (int) $txin,
+				'amount' => (float) $received,
 			);
 		  	return $return;
 		}
