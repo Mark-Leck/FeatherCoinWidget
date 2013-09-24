@@ -1,9 +1,11 @@
 coinwidget.com
 ==============
 
-*The Bitcoin and Litecoin Donation Button*
+*The Bitcoin, Litecoin & Feathercoin Donation Button*
 
 Visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
+
+Feathercoin Demo can be viewed here: http://host.feathercoin.com/ftccoinwidget/
 
 CoinWidget was created by http://scotty.cc/ (hire me for your next project!)
 
@@ -15,6 +17,9 @@ Donations are welcome and will go towards further development of this project as
 
 	BTC: 122MeuyZpYz4GSHNrF98e6dnQCXZfHJeGS
 	LTC: LY1L6M6yG26b4sRkLv4BbkmHhPn8GR5fFm
+	
+	Feathercoin support by UKMark
+	FTC: 6ftCDoN7yNxWLUYJNxjgJ29Dt9TQLPfQxk
 
 *Thank you for your support and generosity!*
 
