@@ -4,7 +4,7 @@ FeatherCoinWidget is a fork of the original Coinwidget.com source @ https://gith
 
 *The Bitcoin, Litecoin & Feathercoin Donation Button*
 
-Feathercoin Demo can be viewed here: http://host.feathercoin.com/ftccoinwidget/
+Feathercoin Demo can be viewed here: http://host.feathercoin.com/feathercoinwidget/
 
 Visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
 
