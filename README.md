@@ -1,5 +1,6 @@
-FeatherCoinWidget is a fork of the original CoinWidget.com source
-=================================================================
+FeatherCoinWidget 
+=================
+FeatherCoinWidget is a fork of the original Coinwidget.com source @ https://github.com/scottycc/coinwidget.com
 
 *The Bitcoin, Litecoin & Feathercoin Donation Button*
 
