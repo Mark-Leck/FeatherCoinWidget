@@ -45,7 +45,7 @@ See the file: **code-sample.html**
 
 The complete list of the options and acceptable values can be found on http://coinwidget.com/.
 
-You can also use the wizard on http://coinwidget.com/ to generate linking codes, just be sure to change: `<script src="URL_TO_coin.js"></script>` to use your own hosted copy of coin.js.
+You can also use the wizard on http://coinwidget.com/ to generate linking codes, just be sure to change: `<script src="coin.js"></script>` to the correct location if not local.
 
 *Enjoy! -scotty*
 
