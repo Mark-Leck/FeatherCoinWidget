@@ -3,9 +3,9 @@ coinwidget.com
 
 *The Bitcoin, Litecoin & Feathercoin Donation Button*
 
-Visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
-
 Feathercoin Demo can be viewed here: http://host.feathercoin.com/ftccoinwidget/
+
+Visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
 
 CoinWidget was created by http://scotty.cc/ (hire me for your next project!)
 
