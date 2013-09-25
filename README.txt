@@ -1,5 +1,6 @@
-coinwidget.com
-==============
+FeatherCoinWidget 
+=================
+FeatherCoinWidget is a fork of the original Coinwidget.com source @ https://github.com/scottycc/coinwidget.com
 
 *The Bitcoin, Litecoin & Feathercoin Donation Button*
 
@@ -26,11 +27,11 @@ Donations are welcome and will go towards further development of this project as
 
 Installation
 ==============
-A. Grab the latest version from GitHub: https://github.com/scottycc/coinwidget.com
+A. Grab the latest version from GitHub: https://github.com/Mark-Leck/FeatherCoinWidget/
 
 B. Open **widget/coin.js** and find:
 
-	source: 'http://coinwidget.com/widget/'
+	source: 'ADD_YOUR_SOURCE_URL_HERE'
 
 C. Change the URL portion of this line to your own server/path.
 
@@ -44,7 +45,7 @@ See the file: **code-sample.html**
 
 The complete list of the options and acceptable values can be found on http://coinwidget.com/.
 
-You can also use the wizard on http://coinwidget.com/ to generate linking codes, just be sure to change: `<script src="http://coinwidget.com/widget/coin.js"></script>` to use your own hosted copy of coin.js.
+You can also use the wizard on http://coinwidget.com/ to generate linking codes, just be sure to change: `<script src="URL_TO_coin.js"></script>` to use your own hosted copy of coin.js.
 
 *Enjoy! -scotty*
 
